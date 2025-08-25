@@ -70,3 +70,4 @@ Community Safety: Local authorities can monitor environmental conditions to issu
 
 6. Screenshots / Demos
 Show what the dashboard looks like:
+https://github.com/afrojaSinigdha/Weather-Update-Dashboard/blob/main/Weather_Update_Dashboard.png
